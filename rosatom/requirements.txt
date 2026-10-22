@@ -1,8 +1,14 @@
-torch
-matplotlib
-scikit-learn
 numpy
 pandas
-seaborn
-tqdm
+torch --index-url https://download.pytorch.org/whl/cpu
+scikit-learn 
+onnx 
+onnxscript 
+seaborn 
+matplotlib 
+plotly 
+jupyterlab 
+tqdm 
+ipywidgets 
+netron
 typing
